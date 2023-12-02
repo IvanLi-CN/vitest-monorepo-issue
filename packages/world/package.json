@@ -1,0 +1,17 @@
+{
+  "name": "world",
+  "version": "1.0.0",
+  "description": "",
+  "exports": "./dist/world.js",
+  "types": "./dist/world.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hello": "workspace:^"
+  }
+}
