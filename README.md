@@ -1,7 +1,9 @@
 # vitest-monorepo-issue
 
 ```bash
-pnpm i
+pnpm install
 
-pnpm t
+pnpm build
+
+pnpm test
 ```
